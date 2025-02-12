@@ -1,14 +1,16 @@
 {
   "categories": ["Completas", "Bebidas", "Menú", "Postres"],
   "menuItems": [
-    { "id": 1, "name": "Bistec de cerdo", "price": 1000.00, "image": "/images/Bistec de cerdo.jpg", "category": "Completas" },
-    { "id": 2, "name": "Chuleta de cerdo", "price": 1000.00, "image": "/images/Chuleta de cerdo.jpg", "category": "Completas" },
-    { "id": 3, "name": "Masa frita", "price": 1000.00, "image": "/images/Masa frita.jpg", "category": "Completas" },
+    { "id": 1, "name": "Bistec de cerdo", "price": 1000.00, "image": "images/Bistec de cerdo.jpg", "category": "Completas" },
+    { "id": 2, "name": "Chuleta de cerdo", "price": 1000.00, "image": "images/Chuleta de cerdo.jpg", "category": "Completas" },
+    { "id": 3, "name": "Masa frita", "price": 1000.00, "image": "images/Masa frita.jpg", "category": "Completas" },
     { "id": 4, "name": "Lomo ahumado", "price": 1000.00, "image": "/images/Lomo ahumado.jpg", "category": "Completas" },
-    { "id": 5, "name": "Chicharras de plátano", "price": 150.00, "image": "/images/Chicharras de plátano.jpg", "category": "Menú" },
-    { "id": 6, "name": "Tostones de plátano", "price": 200.00, "image": "/images/Tostones de plátano.jpg", "category": "Menú" },
-    { "id": 7, "name": "Yuca con mojo", "price": 150.00, "image": "/images/Yuca con mojo.jpg", "category": "Menú" },
-    { "id": 8, "name": "Ensalada mixta", "price": 150.00, "image": "/images/Ensalada mixta.jpg", "category": "Menú" },
-    { "id": 9, "name": "Flan", "price": 200.00, "image": "/images/Flan.jpg", "category": "Postres" }
+
+    { "id": 5, "name": "Chicharras de plátano", "price": 150.00, "image": "images/Chicharras de plátano.jpg", "category": "Menú" },
+    { "id": 6, "name": "Tostones de plátano", "price": 200.00, "image": "images/Tostones de plátano.jpg", "category": "Menú" },
+    { "id": 7, "name": "Yuca con mojo", "price": 150.00, "image": "images/Yuca con mojo.jpg", "category": "Menú" },
+    { "id": 8, "name": "Ensalada mixta", "price": 150.00, "image": "images/Ensalada mixta.jpg", "category": "Menú" },
+    
+    { "id": 9, "name": "Flan", "price": 200.00, "image": "images/Flan.jpg", "category": "Postres" }
   ]
 }

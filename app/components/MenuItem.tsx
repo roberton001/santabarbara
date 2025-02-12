@@ -14,7 +14,7 @@ export default function MenuItem({ name, price, image }: MenuItemProps) {
         alt={name}
         width={300}
         height={200}
-        className="w-full h-48 object-cover"
+        className="w-full h-[300px] object-cover"
       />
       <div className="p-4">
         <h3 className="text-lg font-semibold text-food-text">{name}</h3>
