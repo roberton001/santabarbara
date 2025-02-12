@@ -1,7 +1,7 @@
 interface NavBarProps {
-  categories: string[]
-  activeCategory: string
-  onCategoryChange: (category: string) => void
+  categories: string[];
+  activeCategory: string;
+  onCategoryChange: (category: string) => void;
 }
 
 export default function NavBar({ categories, activeCategory, onCategoryChange }: NavBarProps) {
@@ -24,6 +24,5 @@ export default function NavBar({ categories, activeCategory, onCategoryChange }:
         ))}
       </ul>
     </nav>
-  )
+  );
 }
-
