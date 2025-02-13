@@ -6,7 +6,7 @@
     { "id": 3, "name": "Masa frita", "price": 1000.00, "image": "images/Masa frita.jpg", "category": "Completas" },
     { "id": 4, "name": "Lomo ahumado", "price": 1000.00, "image": "images/Lomo ahumado.jpg", "category": "Completas" },
 
-    
+    { "id": 5, "name": "Chicharras de plátano", "price": 150.00, "image": "images/ya.jpg", "category": "Menú" },
 
     { "id": 5, "name": "Chicharras de plátano", "price": 150.00, "image": "images/Chicharras de plátano.jpg", "category": "Menú" },
     { "id": 6, "name": "Tostones de plátano", "price": 200.00, "image": "images/Tostones de plátano.jpg", "category": "Menú" },
