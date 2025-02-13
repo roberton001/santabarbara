@@ -6,6 +6,8 @@
     { "id": 3, "name": "Masa frita", "price": 1000.00, "image": "images/Masa frita.jpg", "category": "Completas" },
     { "id": 4, "name": "Lomo ahumado", "price": 1000.00, "image": "images/Lomo ahumado.jpg", "category": "Completas" },
 
+    { "id": 10, "name": "Refresco de Cola", "price": 2.5, "image": "images/20210915_123440.jpg", "category": "Bebidas" },
+
     { "id": 5, "name": "Chicharras de plátano", "price": 150.00, "image": "images/Chicharras de plátano.jpg", "category": "Menú" },
     { "id": 6, "name": "Tostones de plátano", "price": 200.00, "image": "images/Tostones de plátano.jpg", "category": "Menú" },
     { "id": 7, "name": "Yuca con mojo", "price": 150.00, "image": "images/Yuca con mojo.jpg", "category": "Menú" },
