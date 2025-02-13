@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="relative h-96 w-full overflow-hidden">
       <Image
-        src="/images/portada.jpg"
+        src="images/portada.jpg"
         alt="Fondo del restaurante"
         layout="fill"
         objectFit="cover"
