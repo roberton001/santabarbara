@@ -12,11 +12,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "food-primary": "#FF6B35", // Naranja cálido
-        "food-secondary": "#4CAF50", // Verde fresco
-        "food-accent": "#FFC107", // Amarillo mostaza
-        "food-text": "#2C3E50", // Azul oscuro para texto
-        "food-background": "#FFF9E6", // Crema suave para el fondo
+        "food-primary": "#FF6B35",
+        "food-secondary": "#4CAF50",
+        "food-accent": "#FFC107",
+        "food-text": "#2C3E50",
+        "food-background": "#F8F9FA",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -50,6 +50,16 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+      },
+      fontFamily: {
+        display: ["Playfair Display", "serif"],
+        body: ["Roboto", "sans-serif"],
+      },
+      boxShadow: {
+        neon: '0 0 5px theme("colors.food-primary"), 0 0 20px theme("colors.food-primary")',
+      },
+      animation: {
+        "pulse-slow": "pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite",
       },
       borderRadius: {
         lg: "var(--radius)",

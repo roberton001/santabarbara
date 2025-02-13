@@ -8,7 +8,10 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Santa Barbara - Menú",
   description: "Menú del restaurante Santa Barbara",
-    generator: 'FR.dev'
+    generator: 'FR.dev',
+    icons: {
+      icon: "images/cubiertos.png",
+    },
 }
 
 export default function RootLayout({
